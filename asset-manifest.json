@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NB/static/css/main.9b5390a9.chunk.css",
+    "main.js": "/NB/static/js/main.e8f3dfa7.chunk.js",
+    "main.js.map": "/NB/static/js/main.e8f3dfa7.chunk.js.map",
+    "runtime-main.js": "/NB/static/js/runtime-main.d0b0e898.js",
+    "runtime-main.js.map": "/NB/static/js/runtime-main.d0b0e898.js.map",
+    "static/js/2.cf6222a5.chunk.js": "/NB/static/js/2.cf6222a5.chunk.js",
+    "static/js/2.cf6222a5.chunk.js.map": "/NB/static/js/2.cf6222a5.chunk.js.map",
+    "index.html": "/NB/index.html",
+    "static/css/main.9b5390a9.chunk.css.map": "/NB/static/css/main.9b5390a9.chunk.css.map",
+    "static/js/2.cf6222a5.chunk.js.LICENSE.txt": "/NB/static/js/2.cf6222a5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/NB/static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/announcement_1.438e2b5f.png": "/NB/static/media/announcement_1.438e2b5f.png",
+    "static/media/event_1.e640674e.jpg": "/NB/static/media/event_1.e640674e.jpg",
+    "static/media/event_2.c20db7a1.jpg": "/NB/static/media/event_2.c20db7a1.jpg",
+    "static/media/news.6539904c.png": "/NB/static/media/news.6539904c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0b0e898.js",
+    "static/js/2.cf6222a5.chunk.js",
+    "static/css/main.9b5390a9.chunk.css",
+    "static/js/main.e8f3dfa7.chunk.js"
+  ]
+}
